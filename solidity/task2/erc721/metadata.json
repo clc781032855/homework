@@ -1,0 +1,11 @@
+{
+  "name": "My NFT",
+  "description": "This is my first图文NFT，上传到Sepolia测试网",
+  "image": "ipfs://bafkreicg4mfhsbkrws3xn4uuevdmu3cexwswzgqcn72bszjcxagdsqkzta",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Image"
+    }
+  ]
+}
